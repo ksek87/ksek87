@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my Github!
 
-- I'm a recent Computer Science grad with a specialization in Artificial Intelligence and Intelligent Systems, and also hold a degree in Applied Sciences with studies in Electrical Engineering and in Business. 
+- I'm a recent Computer Science grad with a specialization in Artificial Intelligence, and also hold a degree in Applied Sciences with studies in Electrical Engineering and in Business. 
 - I'm currently a Fellow at the AI4Good Lab in the 2022 Montreal Cohort, looking to explore the ethical implications of AI and how we can use technology for social good. 
 
 <!--
