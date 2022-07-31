@@ -1,8 +1,9 @@
 ### Hi there 👋
 Welcome to my Github!
 
+- Spent the last few years with a venture-backed, sustainability-focused AI firm, now entering technology transformation consulting!
 - I'm a recent Computer Science grad with a specialization in Artificial Intelligence, and also hold a degree in Applied Sciences with studies in Electrical Engineering and in Business. 
-- I'm currently a Fellow at the AI4Good Lab in the 2022 Montreal Cohort, looking to explore the ethical implications of AI and how we can use technology for social good. 
+- I'm recently completed a Fellowship at the AI4Good Lab in the 2022 Montreal Cohort, exploring the ethical implications of AI and how we can use technology for social good. 
 
 <!--
 **ksek87/ksek87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
