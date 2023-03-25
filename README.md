@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Keelin, welcome to my Github!
 
+### A bit about me:
 - I spent the last few years with a venture-backed, sustainability-focused AI firm, and now work in Tech Strategy Consulting!
 - I'm a recent Computer Science graduate with a specialization in Artificial Intelligence, and also hold a degree in Applied Sciences with studies in Electrical Engineering and in Business. 
 - I recently completed a Fellowship at the AI4Good Lab (at MILA -- Montreal Institute for Learning Algorithms) in the 2022 Montreal Cohort, exploring the ethical implications of AI and how we can use technology for social good. Check out the project in my pinned repos below!
@@ -9,7 +10,8 @@ I'm Keelin, welcome to my Github!
 
 Planning to start up some new projects soon, so stay tuned. 
 
-
+### Get in touch
+Happy to connect here or on Linkedin, I'm always happy to chat and grow my network. 
 <!--
 **ksek87/ksek87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
