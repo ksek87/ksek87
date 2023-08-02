@@ -2,10 +2,11 @@
 I'm Keelin, welcome to my Github!
 
 ### A bit about me:
-**Technology Transformation Consultant | AI/ML & Innovation | 2023 Montreal Cohort Fellow @ AI4GoodLab (MILA) | Former start-up engineer**
+Technology Transformation Consultant | AI/ML & Innovation | 2023 Montreal Cohort Fellow @ AI4GoodLab (MILA) | Former start-up bro*
 
 ### Get in touch
 Happy to connect here or on Linkedin, I'm always happy to chat and grow my network. 
+
 <!--
 **ksek87/ksek87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
