@@ -7,7 +7,12 @@ Technology Transformation Consultant | AI/ML & Innovation for Business Transform
 ### Get in touch
 Happy to connect here or on Linkedin, I'm always happy to chat and grow my network. 
 
-![](https://komarev.com/ghpvc/?ksek87)
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=ksek87&show_icons=true&theme=tokyonight&hide=contribs,prs)
+
+
+![Profile-views](https://komarev.com/ghpvc/?username=ksek87)
+
 <!--
 **ksek87/ksek87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
