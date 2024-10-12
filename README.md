@@ -2,7 +2,7 @@
 I'm Keelin, welcome to my Github!
 
 ### A bit about me:
-Technology Transformation Consultant | AI/ML & Innovation for Business Transformation | 2022 Montreal Cohort Fellow @ AI4GoodLab (MILA) | Former Engineer @ VC-backed Startup
+AI & Technology Transformation Consultant | AI/ML & Innovation for Business Transformation | 2022 Montreal Cohort Fellow @ AI4GoodLab (MILA) | Former Engineer @ VC-backed Startup
 
 ### Get in touch
 Happy to connect here or on Linkedin, I'm always happy to chat and grow my network. 
