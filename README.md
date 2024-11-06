@@ -9,7 +9,10 @@ I'm currently exploring projects that combine cutting-edge technology with produ
 
 ### Get in touch
 I’m always happy to connect here or on LinkedIn. Let’s have a virtual coffee and grow our networks!
+
+
 <a href="https://github.com/ksek87">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ksek87&cc=22272e&tc=37BCF6&ic=fff&bc=0000">>
+    <img src="https://github-stats-alpha.vercel.app/api?username=ksek87&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
 ![Profile-views](https://komarev.com/ghpvc/?username=ksek87)
