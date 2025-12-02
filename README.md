@@ -3,6 +3,8 @@ I'm Keelin, welcome to my GitHub!
 
 ### A bit about me:
 I'm a Solutions Engineer with a diverse background in consulting, AI/ML, and software engineering  with a love of Product and all things AI Ethics. 
+- Solutions @ Sama
+- Advisor @ Leedana
 - ex-EY
 - ex-ReelData AI
 - AI4GoodLab @ MILA 2022 Alumni 
