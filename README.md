@@ -10,7 +10,9 @@
 
 ---
 
-Solutions Engineer at **[Sama](https://sama.com)** — built the company's first agentic AI evaluation offering. Previously Tech Lead on a 12K-call/day GenAI system at EY; early hire at ReelData AI from pre-seed through Series A. AI4Good Lab · Mila 2022.
+Solutions Engineer at **[Sama](https://sama.com)** — built the company's first agentic AI evaluation offering. Previously Tech Lead on a 12K-call/day GenAI system at EY; early hire at ReelData AI from pre-seed through Series A.
+
+The concern for what we're actually building has been there since before it was the done thing — it's what brought me to the AI4Good Lab at Mila, drove me toward employers where ethics is structural, and is why fuzzd exists.
 
 ---
 
