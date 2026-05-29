@@ -1,6 +1,6 @@
 ## Keelin Sekerka
 
-I work on AI evaluation and safety — building the infrastructure to understand what these systems actually do under real conditions. The concern has been there since before it was the done thing, and it runs through what I've chosen to build.
+I work in AI product and evaluation — and the further I get into how these systems actually behave in practice, the more AI safety territory I end up in. It's been a natural pull, not a pivot.
 
 Currently Solutions Engineer at [Sama](https://sama.com), where I built the company's first agentic AI evaluation offering. Before that: Tech Lead on a 12K-call/day GenAI system at EY Canada, early hire at ReelData AI from pre-seed through Series A. Two degrees in CS (AI/Intelligent Systems) and Electrical & Computer Engineering. AI4Good Lab · Mila 2022.
 
@@ -12,7 +12,7 @@ Currently Solutions Engineer at [Sama](https://sama.com), where I built the comp
 
 **[recut-ai](https://github.com/ksek87/recut-ai)** — Agent observability: intercepts live runs mid-flight, forks from any step, flags behavioural drift through a layered flagging engine. Framework-agnostic.
 
-**[Sniff AI](https://github.com/ksek87/sniff-ai)** — Agentic system that turns a memory or feeling into a fragrance composition. RAG, custom NER, and scent classifiers over a real fragrance catalogue.
+**[Sniff AI](https://github.com/ksek87/sniff_ai)** — Agentic system that turns a memory or feeling into a fragrance composition. RAG, custom NER, and scent classifiers over a real fragrance catalogue.
 
 ---
 
