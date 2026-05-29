@@ -29,7 +29,7 @@ Turns a memory or feeling into a professional fragrance composition. RAG · cust
 
 ---
 
-Advisor on AI product & GTM · [Leedana](https://leedana.com) &nbsp;|&nbsp; AI4Good Lab evaluator 2025–26 · Mila
+Advisor on AI product & GTM · [Leedana](https://leedana.io) &nbsp;|&nbsp; AI4Good Lab evaluator 2025–26 · Mila
 
 ---
 
