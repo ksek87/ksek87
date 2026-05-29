@@ -1,18 +1,40 @@
+<div align="center">
+
 ## Keelin Sekerka
 
-I work in AI product and evaluation — and the further I get into how these systems actually behave in practice, the more AI safety territory I end up in. It's been a natural pull, not a pivot.
+**AI product &nbsp;·&nbsp; evaluation &nbsp;·&nbsp; safety**
 
-Currently Solutions Engineer at [Sama](https://sama.com), where I built the company's first agentic AI evaluation offering. Before that: Tech Lead on a 12K-call/day GenAI system at EY Canada, early hire at ReelData AI from pre-seed through Series A. Two degrees in CS (AI/Intelligent Systems) and Electrical & Computer Engineering. AI4Good Lab · Mila 2022.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+</div>
 
 ---
 
-### What I'm building
+Solutions Engineer at **[Sama](https://sama.com)** — built the company's first agentic AI evaluation offering. Previously Tech Lead on a 12K-call/day GenAI system at EY; early hire at ReelData AI from pre-seed through Series A. AI4Good Lab · Mila 2022.
 
-**[fuzzd](https://github.com/ksek87/fuzzd)** — Adversarial fuzzer for MCP servers. Probes for tool poisoning, shadowing, and rug-pull attacks. ~91% coverage on the MCPTox dataset. Runs as a CI/CD security gate.
+---
 
-**[recut-ai](https://github.com/ksek87/recut-ai)** — Agent observability: intercepts live runs mid-flight, forks from any step, flags behavioural drift through a layered flagging engine. Framework-agnostic.
+### Projects
 
-**[Sniff AI](https://github.com/ksek87/sniff_ai)** — Agentic system that turns a memory or feeling into a fragrance composition. RAG, custom NER, and scent classifiers over a real fragrance catalogue.
+**[fuzzd](https://github.com/ksek87/fuzzd)** &nbsp; ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+Adversarial fuzzer for MCP servers — tool poisoning, shadowing, and rug-pull attacks. ~91% MCPTox coverage. Deployable as a CI/CD security gate.
+
+**[recut-ai](https://github.com/ksek87/recut-ai)** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+Agent observability — intercepts live runs mid-flight, forks from any step, flags behavioural drift. Framework-agnostic.
+
+**[sniff_ai](https://github.com/ksek87/sniff_ai)** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+Memory or feeling → fragrance composition. RAG · custom NER · scent classifiers.
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat)
 
 ---
 
