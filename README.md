@@ -4,7 +4,7 @@
 
 **AI product &nbsp;·&nbsp; evaluation &nbsp;·&nbsp; safety**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ksekerka)
 
 </div>
 
