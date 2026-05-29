@@ -2,7 +2,7 @@
 
 ## Keelin Sekerka
 
-**AI product & solutions &nbsp;·&nbsp; evaluation &nbsp;·&nbsp; safety**
+**AI product & solutions &nbsp;·&nbsp; GTM &nbsp;·&nbsp; agentic AI &nbsp;·&nbsp; evaluation & safety**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ksekerka)
 
