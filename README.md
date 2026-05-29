@@ -10,7 +10,7 @@
 
 ---
 
-Solutions Engineer at **[Sama](https://sama.com)** — built the company's first agentic AI evaluation offering. Previously Tech Lead on a 12K-call/day GenAI system at EY; early hire at ReelData AI from pre-seed through Series A.
+Solutions Engineer at **[Sama](https://sama.com)** — built the company's first agentic AI evaluation offering from zero. Six years taking AI from concept to deployment across very different domains: computer vision for sustainable aquaculture at ReelData AI (pre-seed → Series A), GenAI at scale in financial services at EY Canada (Tech Lead, 12K calls/day), now agentic AI evaluation and safety. Comfortable across the full arc — research and engineering through to product, pre-sales, and commercial. Native English & French · Montreal.
 
 The concern for what we're actually building has been there since before it was the done thing — it's what brought me to the AI4Good Lab at Mila, drove me toward employers where ethics is structural, and is why fuzzd exists.
 
@@ -25,7 +25,11 @@ Adversarial fuzzer for MCP servers — tool poisoning, shadowing, and rug-pull a
 Agent observability — intercepts live runs mid-flight, forks from any step, flags behavioural drift. Framework-agnostic.
 
 **[sniff_ai](https://github.com/ksek87/sniff_ai)** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-Memory or feeling → fragrance composition. RAG · custom NER · scent classifiers.
+Turns a memory or feeling into a professional fragrance composition. RAG · custom NER · scent classifiers.
+
+---
+
+Advisor on AI product & GTM · [Leedana](https://leedana.com) &nbsp;|&nbsp; AI4Good Lab evaluator 2025–26 · Mila
 
 ---
 
