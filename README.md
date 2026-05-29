@@ -16,7 +16,7 @@ Six years taking AI from concept to deployment across very different domains: co
 
 Comfortable across the full arc — research and engineering through to product, pre-sales, and commercial. Native English & French · Montreal.
 
-The concern for what we're actually building has been there since before it was the done thing — it's what drew me to B Corp employers, mission-led ventures, and the [AI4Good Lab](https://www.ai4goodlab.com/) at Mila, and is why fuzzd exists.
+Responsible AI was a concern long before it was a career move — it's why I chose B Corp employers, mission-led ventures, and the [AI4Good Lab](https://www.ai4goodlab.com/) at Mila, and why fuzzd exists.
 
 ---
 
