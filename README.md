@@ -14,9 +14,9 @@ Solutions Engineer at **[Sama](https://sama.com)** — built the company's first
 
 Six years taking AI from concept to deployment across very different domains: computer vision for sustainable aquaculture at [ReelData AI](https://reeldata.ai) (pre-seed → Series A), GenAI at scale in financial services at EY Canada (Tech Lead, 12K calls/day), now agentic AI evaluation and safety.
 
-Comfortable across the full arc — research and engineering through to product, pre-sales, and commercial. Native English & French · Montreal.
+Comfortable across the full arc — research and engineering through to product, pre-sales, and commercial.
 
-Responsible AI was a concern long before it was a career move — it's why I chose B Corp employers, mission-led ventures, and the [AI4Good Lab](https://www.ai4goodlab.com/) at Mila, and why fuzzd exists.
+Reading *Weapons of Math Destruction* in an undergrad philosophy course was where it started — the conviction that ethics has to be structural, not decorative. That's shaped every choice since: B Corp employers, mission-led ventures, the [AI4Good Lab](https://www.ai4goodlab.com/) at Mila, and why fuzzd exists.
 
 ---
 
