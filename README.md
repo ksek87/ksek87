@@ -10,7 +10,7 @@
 
 ---
 
-Solutions Engineer at **[Sama](https://sama.com)** — built the company's first agentic AI evaluation offering from zero. Six years taking AI from concept to deployment across very different domains: computer vision for sustainable aquaculture at ReelData AI (pre-seed → Series A), GenAI at scale in financial services at EY Canada (Tech Lead, 12K calls/day), now agentic AI evaluation and safety. Comfortable across the full arc — research and engineering through to product, pre-sales, and commercial. Native English & French · Montreal.
+Solutions Engineer at **[Sama](https://sama.com)** — built the company's first agentic AI evaluation offering from zero. Six years taking AI from concept to deployment across very different domains: computer vision for sustainable aquaculture at [ReelData AI](https://reeldata.ai) (pre-seed → Series A), GenAI at scale in financial services at EY Canada (Tech Lead, 12K calls/day), now agentic AI evaluation and safety. Comfortable across the full arc — research and engineering through to product, pre-sales, and commercial. Native English & French · Montreal.
 
 The concern for what we're actually building has been there since before it was the done thing — it's what brought me to the AI4Good Lab at Mila, drove me toward employers where ethics is structural, and is why fuzzd exists.
 
