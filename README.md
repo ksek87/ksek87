@@ -40,12 +40,6 @@ Turns a memory or feeling into a professional fragrance composition. RAG · cust
 
 ---
 
-Advisor on AI product & GTM · [Leedana](https://leedana.io)
-
-[AI4Good Lab](https://www.ai4goodlab.com/) evaluator 2025–26 · Mila
-
----
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
