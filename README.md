@@ -1,6 +1,6 @@
 <div align="center">
 
-## Keelin
+## Keelin Sekerka
 
 **AI product & solutions &nbsp;·&nbsp; GTM &nbsp;·&nbsp; agentic AI &nbsp;·&nbsp; evaluation & safety**
 
