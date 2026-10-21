@@ -8,7 +8,7 @@
 
 ---
 
-I enjoy figuring out what customers actually need and getting them the right AI solution, from the first discovery call to shaping the product behind it. I also like building things to learn and experiment. Lately that's been AI security and agent observability, and right now I'm curious about LLM inference.
+I enjoy helping customers get to the right AI solution: understanding the problem they're actually trying to solve, working through the options with them, and seeing it land. Outside of work, I like building things to learn and experiment. Lately that's been AI security and agent observability, and right now I'm curious about LLM inference.
 
 Comfortable across the full arc — research and engineering through to product, pre-sales, and commercial.
 
